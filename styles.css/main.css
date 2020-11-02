@@ -11,12 +11,12 @@ h1{
     color: yellow;
     padding: 2px;
 }
-.caution, .hero-image-1{
+.hero-image-1{
     height: 300px;
     width: 400px;
   position: relative;
-  top: 250px;
-  left: 200px;
+  top: 500px;
+  left: 300px;
 
 }
 .article-2{
