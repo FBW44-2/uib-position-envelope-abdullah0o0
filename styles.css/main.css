@@ -1,0 +1,43 @@
+.content-container, .article-1{
+position: absolute;
+top: 40px;
+left: 40px;
+font-size: 2.6rem;
+height: 50px;
+width: 50px;
+}
+h1{
+    font-weight: bold;
+    color: yellow;
+    padding: 2px;
+}
+p{
+ 
+}
+.caution, .hero-image-1{
+    height: 300px;
+    width: 400px;
+  position: relative;
+  top: 250px;
+  left: 200px;
+
+}
+.article-2{
+    position: absolute;
+    top: 430px;
+    left: 900px;
+    font-size: 2.6rem;
+    height: 50px;
+    width: 50px;
+}
+.relative-position, .sea-waves, .stamp{
+    height: 150px;
+    position: relative;
+    top: -115px;
+    left: 470px;
+}
+.sea-waves{
+    position: relative;
+    top: -210px;
+    left: 380px;
+}
